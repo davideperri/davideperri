@@ -10,12 +10,12 @@
 
 <br>
 </br>
- 
+
 <h3 align="center">Other things i use in my spare time:</h3>
 <h4 align="center">I developed a few JUCE plugins for personal interest.</h4>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<p align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></p> 
 <h4 align="center">Right now i'm workign on a Telegram bot to speed up the process of retrieving reservation datas for events.</h4>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="center"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></p> 
 
 <br>
 </br>
