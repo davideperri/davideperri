@@ -1,4 +1,6 @@
-### Hi there 👋
+
+Hi 👋
+I'm a dumb fuck front-end developer.
 
 <!--
 **davideperri/davideperri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
